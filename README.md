@@ -1,0 +1,1 @@
+# gatsby-sidebar-navigation-typescript-starter
